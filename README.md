@@ -2,8 +2,8 @@
 
 Welcome to the ShopHub - An Ecommerce Platform! This project serves as the client-side application for ShopHub, a modern e-commerce platform. The frontend is designed to provide users with an intuitive and seamless shopping experience, featuring product browsing, searching, cart management, and more.
 
-## Note : The backend for this project is not implemented yet because i am working on it. The backend code for the basic features like Oauth, routes for some pages and controllers is already done that you can see at repo : [ShopHub Backend](https://github.com/MLAPrince/mla-e-comm-store-backend-1.git)
-  https://github.com/MLAPrince/mla-e-comm-store-backend-1.git
+## Note : The backend for this project is not implemented yet because i am working on it. The backend code for the basic features like Oauth, routes for some pages and controllers is already done that you can see at repo : [ShopHub Backend](https://github.com/MLAPrince/mla-e-comm-store-backend-1.git).
+
 ## 🌐 Live Demo
 
 You can try out the latest version of ShopHub Frontend here: [ShopHub Live](https://shop-hub-frontend-1.vercel.app)
